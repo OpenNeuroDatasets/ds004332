@@ -8,7 +8,8 @@
     ],
     "HowToAcknowledge": "Please cite the paper preprint https://psyarxiv.com/vzh4g when using this data.",
     "ReferencesAndLinks": [
-        "TBD"
+        "https://psyarxiv.com/vzh4g",
+        "https://github.com/melanieganz/MoCoProject"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004332.v1.0.0",
     "EthicsApprovals": [
