@@ -1,0 +1,14 @@
+{
+    "Name": "Datasets with and without deliberate head movements for evaluating the performance of markerless prospective motion correction and selective reacquisition in a general clinical protocol for brain MRI",
+    "BIDSVersion": "1.0.0",
+    "License": "CC0",
+    "Authors": [
+        "Melanie Ganz",
+        "Hannah Eichhorn"        
+    ],
+    "HowToAcknowledge": "Please cite the paper in References and Links when using this data.",
+    "ReferencesAndLinks": [
+        "TBD"
+    ],
+    "DatasetDOI": ""
+}
