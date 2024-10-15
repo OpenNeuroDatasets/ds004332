@@ -1,5 +1,6 @@
 1.2.0 2024-10-14
   - Added DWI data under derivatives
+  - Added observer scores (qualitative analysis) under derivates
 1.1.2 2023-10-25
   - - renamed scan end time files to match BIDS sequence naming
 1.1.1 2023-08-24
