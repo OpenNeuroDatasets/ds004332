@@ -7,12 +7,12 @@ Four scans were acquired for each sequence:
 two without intentional head motion (referred to as ‘still’) and two with a predefined nodding motion (‘nod’). For the T1 MPR sequence, two additional scans with shaking motion were acquired (‘shake’). The participants were instructed to perform two periods of nodding or shaking motion for 40 seconds during the middle of the acquisition, corresponding to the acquisition of the k-space center for the 3D-encoded sequences. 
 
 The scans with and without PMC were acquired in the following order:
-Still, no correction
-Still, PMC
-Nod motion, no correction (+ selective reacquisition)
-Nod motion, PMC (+ selective reacquisition)
-Shake motion, no correction (+ selective reacquisition) - ONLY MPRAGE
-Shake motion, PMC (+ selective reacquisition) - ONLY MPRAGE
+- Still, no correction
+- Still, PMC
+- Nod motion, no correction (+ selective reacquisition)
+- Nod motion, PMC (+ selective reacquisition)
+- Shake motion, no correction (+ selective reacquisition) - ONLY MPRAGE
+- Shake motion, PMC (+ selective reacquisition) - ONLY MPRAGE
 
 Note that _run-01 indicates the still scans, _run-02 indicates the nodding scans and _run-03 indicates the shaking scans.
 
