@@ -14,7 +14,7 @@ The scans with and without PMC were acquired in the following order:
 - Shake motion, no correction (+ selective reacquisition) - ONLY MPRAGE
 - Shake motion, PMC (+ selective reacquisition) - ONLY MPRAGE
 
-Note that _run-01 indicates the still scans, _run-02 indicates the nodding scans and _run-03 indicates the shaking scans.
+Note that _run-01 indicates the still scans, _run-02 indicates the nodding scans and _run-03 indicates the shaking scans. _rec-wore indicates a scan without reacquisition, _rec-wre indicates a scan with reacquisition.
 
 Nodding motion was chosen as the primary motion pattern based on results of a previous study (https://www.frontiersin.org/articles/10.3389/fradi.2021.789632/full) , where nodding rotation was found to be significantly larger than the rotational components around the other axes for awake children. Rigid-body head motion was measured with the optical tracking system Tracoline (TracInnovations, Ballerup, Denmark).
 
