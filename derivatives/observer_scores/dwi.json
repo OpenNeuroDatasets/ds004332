@@ -1,6 +1,6 @@
 {
     "sequence": {
-        "Description": "Sequence in used for the scan. Matches the bids-filename.",
+        "Description": "Sequence in used for the scan. Matches the bids-filename. Files can be found under derivatives/clinical_dwi.",
         "Levels": {
             "acq-pmcoff_run-01_dwi": "DWI image (TRACEW and ADC), without pmc, still (no deliberate motion)",
             "acq-pmcoff_run-02_dwi": "DWI image (TRACEW and ADC), without pmc, deliberate nod motion",
