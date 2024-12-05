@@ -1,0 +1,20 @@
+{
+    "age": {
+        "Description": "age of the participant",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "group": {
+        "Description": "experimental group the participant belonged to",
+        "Levels": {
+            "subject": "participants who were incluced in the study",
+            "pilot": "participants who were not included in the study, but scanned as pilots"
+        }
+    }
+}
