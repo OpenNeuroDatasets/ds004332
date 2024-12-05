@@ -1,0 +1,22 @@
+{
+    "sequence": {
+        "Description": "Sequence in used for the scan. Matches the bids-filename.",
+        "Levels": {
+            "acq-t1tirmpmcoff_rec-wore_run-01_T1w": "T1 TIRM image, without pmc, without reacquisition, still (no deliberate motion)",
+            "acq-t1tirmpmcoff_rec-wore_run-02_T1w": "T1 TIRM image, without pmc, without reacquisition, deliberate nod motion",
+            "acq-t1tirmpmcoff_rec-wre_run-02_T1w": "T1 TIRM image, without pmc, with reacquisition, nod motion",
+            "acq-t1tirmpmcon_rec-wore_run-01_T1w":  "T1 TIRM image, with pmc, without reacquisition, still (no deliberate motion)",
+            "acq-t1tirmpmcon_rec-wore_run-02_T1w":  "T1 TIRM image, with pmc, without reacquisition, deliberate nod motion",
+            "acq-t1tirmpmcon_rec-wre_run-02_T1w": "T1 TIRM image, with pmc, with reacquisition, deliberate nod motion"
+        }
+    },
+    "radiographer_1_score": {
+        "Description": "Score as determined by the first radiographer. Value range is from 1 and 5."
+    },
+    "radiographer_2_score": {
+        "Description": "Score as determined by the second radiographer. Value range is from 1 and 5."
+    },
+    "neuroradiologist_score": {
+        "Description": "Scoradiographerre as determined by the neuroradiologist. Value range is from 1 and 5."
+    }
+}
