@@ -1,3 +1,6 @@
+1.1.4 2024-12-05
+  - Added freesurfer brainmasks and transformations for DWI data
+  - Added missing ScanEndTimes in source
 1.2.0 2024-12-05
   - Added brain masks and transformations for DWI data
   - Added missing ScanEndTimes in source data
